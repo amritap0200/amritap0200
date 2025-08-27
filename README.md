@@ -4,7 +4,7 @@
 <h1 align="center">Hi👋, I'm Amrita!</h1>
 <h3 align="center"> I'm a second-year Computer Science Undergrad at PES University. I'm interested in Cybersecurity, AI/ML and Quantum Computing.</h3>
 
-### Projects--> https://github.com/amritap0200?tab=repositories
+---
 
 ### What I Work With  
 
@@ -20,6 +20,8 @@
 **Other Interests**:  
 `Quantum Computing` | `Cybersecurity` | `Signal Processing` | `Sci-Fi Writing`
 
+---
+
 ### 🔥 **Featured Project: Intelligent Human-Interaction Robot** 
 A multimodal robotics system combining:
 - Real-time human detection using ultrasonic sensor arrays (HC-SR04) and OpenCV-based facial recognition
@@ -29,6 +31,8 @@ A multimodal robotics system combining:
 
 ---
 
+### Projects--> https://github.com/amritap0200?tab=repositories
+
 ### Let’s connect about **embedded AI**, **open robotics** and **Web Development**! 
 <p align="left">
 <a href="https://www.linkedin.com/in/amrita-pradeep12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amrita_LinkedIn" height="30" width="40" /></a>
@@ -36,8 +40,3 @@ A multimodal robotics system combining:
 <a href="https://www.hackerrank.com/profile/PES2UG24CS919" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pes2ug23cs485" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/1317732420669145178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1317732420669145178" height="30" width="40" /></a>
 </p>.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
