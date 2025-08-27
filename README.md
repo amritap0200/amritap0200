@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="Amrita_Banner.png" alt="Banner_Amrita_GitHub">
+    <img src="Banner.png" alt="Banner_Amrita_GitHub">
 </div>
 <h1 align="center">Hi👋 I'm Amrita!</h1>
 <h3 align="center"> I'm a second-year Computer Science Undergrad at PES University. I'm interested in Cybersecurity, AI/ML and Quantum Computing.</h3>
