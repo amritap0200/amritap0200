@@ -9,10 +9,10 @@
 ### What I Work With  
 
 **AI & Software**:  
-`Python` | `C` | `HTML5` | `CSS` | `JavaSript` | `OpenCV` | `Gemini API` | `gTTS` | `PyTorch (Basics)`  
+`Python` | `C` | `HTML5` | `CSS` | `JavaSript` | `React.js (In Progress)` | `Node.js (In Progress)` | `MongoDB (In Progress)` | `OpenCV` | `Gemini API` | `gTTS` | `PyTorch (In Progress)` | `Numpy (In Progress)` 
 
 **Hardware & Robotics**:  
-`Arduino` | `ESP32` | `Servo Control` | `Ultrasonic Sensors` | `Raspberry Pi`  
+`Arduino` | `ESP32` | `Servo Control` | `Ultrasonic Sensors` | `Raspberry Pi`
 
 **Design & Tools**:  
 `Git` | `Linux` | `LTspice` | `MATLAB` | `Simulink` | `GitHub` | `Canva` | `Figma` 
