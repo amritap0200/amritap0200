@@ -1,21 +1,21 @@
 <h1 align="center">Hi👋 I'm Amrita!</h1>
-<h3 align="center"> I'm a second-year Computer Science Undergrad at PES University. I'm interested in Cybersecurity, AI/ML and Quantum Computing.</h3>
+<h3 align="center"> I'm a second-year Computer Science Undergrad at PES University. I'm interested in Cybersecurity, Machine Learning and Quantum Computing.</h3>
 
 ---
 
 ### What I Work With  
 
 **AI & Software**:  
-`Python` | `C` | `HTML5` | `CSS` | `JavaSript` | `React.js (In Progress)` | `Node.js (In Progress)` | `MongoDB (In Progress)` | `OpenCV` | `Gemini API` | `gTTS` | `PyTorch (In Progress)` | `Numpy (In Progress)` 
+`Python` | `C` | `HTML5` | `CSS` | `JavaSript` | `React.js` | `Node.js` | `MongoDB` | `OpenCV` | `PyTorch (In Progress)` | `Numpy`
 
 **Hardware & Robotics**:  
-`Arduino` | `ESP32` | `Servo Control` | `Ultrasonic Sensors` | `Raspberry Pi`
+`Arduino` | `ESP32` | `Servo Control` | `Ultrasonic Sensors`
 
 **Design & Tools**:  
 `Git` | `Linux` | `LTspice` | `MATLAB` | `Simulink` | `GitHub` | `Canva` | `Figma` 
 
 **Other Interests**:  
-`Quantum Computing` | `Cybersecurity` | `Signal Processing` | `Sci-Fi Writing`
+`Quantum Computing` | `Cybersecurity`
 
 ---
 
