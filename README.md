@@ -5,8 +5,14 @@
 
 ### What I Work With  
 
-**AI & Software**:  
-`Python` | `C` | `HTML5` | `CSS` | `JavaSript` | `React.js` | `Node.js` | `MongoDB` | `OpenCV` | `PyTorch (In Progress)` | `Numpy`
+**Programming Languages**:  
+`Python` | `C` | `C++` | `JavaSript`
+
+**Web & Backend**:  
+`React` | `Node.js` | `Express.js` | `FastAPI` | `REST APIs`
+
+**Databases & Tools**:  
+`MongoDB` | `Redis` | `Git` | `Linux` | `Postman`
 
 **Hardware & Robotics**:  
 `Arduino` | `ESP32` | `Servo Control` | `Ultrasonic Sensors`
