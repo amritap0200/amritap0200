@@ -24,16 +24,6 @@
 `Quantum Computing` | `Cybersecurity`
 
 ---
-
-### 🔥 **Featured Project: Intelligent Human-Interaction Robot** 
-A multimodal robotics system combining:
-- Real-time human detection using ultrasonic sensor arrays (HC-SR04) and OpenCV-based facial recognition
-- Context-aware conversation engine powered by Gemini API with speech-to-text (Google SpeechRecognition) and text-to-speech (gTTS) pipelines 
-- Responsive physical interaction via SG90 servo control with PID-based smooth tracking (Arduino/C++)
-*(Repo pinned)*  
-
----
-
 ### Projects--> https://github.com/amritap0200?tab=repositories
 
 ### Let’s connect about **embedded AI**, **open robotics** and **Web Development**! 
