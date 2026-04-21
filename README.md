@@ -1,4 +1,4 @@
-<h1 align="center">Hi!'m Amrita</h1>
+<h1 align="center">Hi! I'm Amrita</h1>
 <h3 align="center"> I'm a second-year Computer Science Undergrad at PES University. I'm interested in Cybersecurity, Machine Learning and Quantum Computing.</h3>
 
 ---
